@@ -5,7 +5,7 @@ App per la gestione degli ombrelloni.
 ## Descrizione
 
 L'app permette di prendere nota delle prenotazioni effettuate dai clienti per gli ombrelloni, le sdraio, le sedie
-in una data specificata per un ombrellone specifico, prendendo nota nache dei pagamenti.
+in una data specificata per un ombrellone specifico, prendendo nota anche dei pagamenti.
 Si può selezionare nelle impostazioni il numero degli ombrelloni di cui si ha bisogno, 
 decidere se il controllo del cf sia di default e resettare il database.
 
